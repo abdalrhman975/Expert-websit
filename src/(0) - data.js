@@ -6,8 +6,8 @@ export const navbar = [
 ];
 
 export const imgsGallery = [
-    { img: '../public/imgs/gallery-01.png' },
-    { img: '../public/imgs/gallery-02.png' },
+    { img: 'https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/imgs/gallery-01.png' },
+    { img: 'https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/imgs/gallery-02.png' },
     { img: '../public/imgs/gallery-03.jpg' },
     { img: '../public/imgs/gallery-04.png' },
     { img: '../public/imgs/gallery-05.jpg' },
