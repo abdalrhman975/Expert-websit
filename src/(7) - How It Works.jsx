@@ -9,7 +9,7 @@ export default function HowItWorks() {
                 hover:after:animate-[rightMove_.5s_linear_forwards]
                 hover:before:animate-[leftMove_0.5s_linear_forwards]">HOW IT WORKS ?</h1>
             <div className=" relative container cont flex justify-center items-center flex-col ">
-              <img src="../public/imgs/work-steps.png" alt="#" />
+              <img src="https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/imgs/work-steps.png" alt="#" />
               <div>
                 {howItWorks.map((howItWorks)=>{
                   return (
