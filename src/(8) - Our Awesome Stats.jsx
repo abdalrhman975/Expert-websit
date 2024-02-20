@@ -1,10 +1,7 @@
-import { useState } from "react";
 import { awesome } from "./(0) - data";
 
 
 export default function OurAwesomeStats () {
-  
-  const { count, setCount } = useState();
 
   return (
     <div className=" container cont img  ">
