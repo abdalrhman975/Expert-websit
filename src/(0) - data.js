@@ -6,8 +6,8 @@ export const navbar = [
 ];
 
 export const imgsGallery = [
-    { img: 'public/imgs/gallery-01.png' },
-    { img: 'public/imgs/gallery-02.png' },
+    { img: 'https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/imgs/gallery-01.png' },
+    { img: 'https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/imgs/gallery-02.png' },
     { img: 'https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/imgs/gallery-03.jpg' },
     { img: 'https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/imgs/gallery-04.png' },
     { img: 'https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/imgs/gallery-05.jpg' },
@@ -29,19 +29,10 @@ export const teamMembers = [
     { img: 'https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/imgs/team-07.jpg ', name: "Hamza Shurbaji", description: 'The general supervisor and the monitoring eye for work progress' },
 ];
 
-export const services = [
-    { icon: '../public/imgs/securety.png', title: 'securety', number: 1 },
-    { icon: '../public/imgs/fixsing.png', title: 'Fixing Issues', number: 2 },
-    { icon: '../public/imgs/Location.png', title: 'Location', number: 3 },
-    { icon: '../public/imgs/Coding.png', title: 'Coding', number: 4 },
-    { icon: '../public/imgs/marketing.png', title: 'Marketing', number: 5 },
-    { icon: '../public/imgs/marketing.png', title: 'Marketing', number: 6 }
-];
-
 export const howItWorks = [
     { img: 'https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/imgs/work-steps-1.png', title: ' Business Analysis ', description: 'We analyze the project and study it in detail to take into account all aspects' },
     { img: 'https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/imgs/work-steps-2.png', title: 'Architecture', description: 'We start by building the project and implementing it according to the client’s desire' },
-    { img: './public/imgs/work-steps-3.png', title: 'Developement', description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim nesciunt obcaecati quisquam quis laborum recusandae debitis vel' },
+    { img: 'https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/imgs/work-steps-3.png', title: 'Developement', description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim nesciunt obcaecati quisquam quis laborum recusandae debitis vel' },
 ];
 export const awesome = [
     {img:'person' , number: 150 , name:'Clients'},
