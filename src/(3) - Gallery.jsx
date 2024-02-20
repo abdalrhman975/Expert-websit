@@ -14,7 +14,7 @@ function Gallery ()
                     { imgsGallery.map( (imgsGallery) =>
                     {
                         return ( <>
-                        <div className="shadow p-[15px] mb-5">
+                        <div   className="shadow p-[15px] mb-5">
                             <div>
                                 <img src={ imgsGallery.img } alt="#" />
                             </div>
