@@ -55,17 +55,7 @@
     before:z-[-2]
 
   }
-  .beforeLanding{
-    @apply
-    before:bg-[#ececec] 
-    before:absolute 
-    before:w-full
-     before:min-h-[600px]
-     before:z-[-1] 
-    before:top-[-40%] 
-    before:left-0 
-    before:skew-y-[-6deg] 
-  }
+ 
   .beforeLinks{
     @apply
     before:bg-blue-500

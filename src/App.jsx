@@ -10,7 +10,7 @@ import End from "./(9) - end"
 function App ()
 {
   return (
-    <>
+    <div className=" overflow-hidden">
       <Home />
       <Landing />
       <Gallery />
@@ -19,7 +19,7 @@ function App ()
       <HowItWorks />
       <OurAwesomeStats />
       <End />
-    </>
+    </div>
   )
 }
 
