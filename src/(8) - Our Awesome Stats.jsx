@@ -6,7 +6,7 @@ export default function OurAwesomeStats () {
   return (
     <div className=" container cont img  ">
           <h1 className="m-14 mb-20 mx-auto w-fit relative z-10 py-[10px] px-5  font-bold text-3xl">Our Awesome Stats </h1>
-          <div className="container cont relative flex items-center justify-center flex-col">
+      <div className="container cont relative flex items-center justify-center flex-col">
               { awesome.map( (awesome) =>
               {
                   return(
